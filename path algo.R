@@ -1,6 +1,7 @@
 #SAIR 2023: Directions to a Degree: the Efficient Visualization and Analysis of Curriculum Data using Network Graphs in R
 #Zhen Zhang, zhen.zhang2@uga.edu
 #University of Georgia Office of Institutional Research
+#Based on https://www.baeldung.com/cs/simple-paths-between-two-vertices 
 
 # metrics -----------------------------------------------------------------
 path_search <- function(u) {
